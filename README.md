@@ -26,8 +26,8 @@ Example configuration:
   "Tool Cupboard Multiplier": 2.0 <- will multiply tc stack sizes to 2x
 }
 
-Vanilla: ![image](https://github.com/user-attachments/assets/062095fd-1442-4d0d-accc-275c3ff2d6ff)
-With Plugin:![image](https://github.com/user-attachments/assets/c3388180-2614-4d7b-906a-c2a8c43d2729)
+ ![image](https://github.com/user-attachments/assets/062095fd-1442-4d0d-accc-275c3ff2d6ff)
+ ![image](https://github.com/user-attachments/assets/c3388180-2614-4d7b-906a-c2a8c43d2729)
 
 
 **Permissions**
