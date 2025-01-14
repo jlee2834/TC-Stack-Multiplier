@@ -24,7 +24,7 @@ Example configuration:
 ```json
 {
   "Default Multiplier": 1.0,
-  "Tool Cupboard Multiplier": 2.0 # will multiply tc stack sizes to 2x
+  "Tool Cupboard Multiplier": 2.0 // will multiply tc stack sizes to 2x
 }
 ```
 
