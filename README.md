@@ -21,10 +21,12 @@ The plugin supports the following configurable options:
 Default Multiplier: Applied when no specific multiplier is set. (Default: 1)
 Tool Cupboard Multiplier: Multiplier applied to stack sizes in tool cupboards. (Default: 1)
 Example configuration:
+```json
 {
   "Default Multiplier": 1.0,
   "Tool Cupboard Multiplier": 2.0 <- will multiply tc stack sizes to 2x
 }
+```
 
  ![image](https://github.com/user-attachments/assets/062095fd-1442-4d0d-accc-275c3ff2d6ff)
  ![image](https://github.com/user-attachments/assets/c3388180-2614-4d7b-906a-c2a8c43d2729)
